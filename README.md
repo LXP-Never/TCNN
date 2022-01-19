@@ -6,8 +6,8 @@
 
 ## 网络框架图
 
-![image-20220119165638711](C:\Users\anker\Desktop\TCNN\README.assets\image-20220119165638711.png)
+![image-20220119165638711](README.assets/image-20220119165638711.png)
 
 ## 每一层的输入输出
 
-![image-20220119165559904](C:\Users\anker\Desktop\TCNN\README.assets\image-20220119165559904.png)
+![image-20220119165559904](README.assets/image-20220119165559904.png)
