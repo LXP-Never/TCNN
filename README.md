@@ -6,8 +6,17 @@
 
 ## 网络框架图
 
-![image-20220119165638711](README.assets/image-20220119165638711.png)
+![image-20220119165638711](image/image-20220119165638711.png)
 
 ## 每一层的输入输出
 
-![image-20220119165559904](README.assets/image-20220119165559904.png)
+![image-20220119165559904](image/image-20220119165559904.png)
+
+
+
+# How to train
+
+- [Temporal-Convolutional-Neural-Network-Single-Channel-Speech-Enhancement](https://github.com/HardeyPandya/Temporal-Convolutional-Neural-Network-Single-Channel-Speech-Enhancement)
+
+
+Thanks to all those who are making their codes open source - promoting education, learning and research.
